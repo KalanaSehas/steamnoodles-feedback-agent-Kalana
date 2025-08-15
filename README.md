@@ -1,8 +1,8 @@
-# Automated Restaurant Feedback Agent — SteamNoodles (AgentX Mini Project)
+# Automated Restaurant Feedback Agent — SteamNoodles 🍜  (AgentX Mini Project)
 
 **Author:** Kalana Sehas Darshana  
-**University:** NSBM Green University  
-**Year:** 2025
+**University:** University of Plymoth UK 
+**Year:** 3rd Year
 
 ## Overview
 This project implements a two-agent system using **LangChain** (with optional OpenAI) and **matplotlib**:
