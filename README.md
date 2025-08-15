@@ -2,7 +2,7 @@
 (AgentX Mini Project)
 
 **Author:** Kalana Sehas Darshana  
-**University:** University of Plymoth UK 
+**University:** University of Plymoth UK <br>
 **Year:** 3rd Year
 
 ## Overview
