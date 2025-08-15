@@ -1,4 +1,4 @@
-# Automated Restaurant Feedback Agent — SteamNoodles 🍜 
+# Automated Restaurant Feedback Agent — SteamNoodles🍜 
 (AgentX Mini Project)
 
 **Author:** Kalana Sehas Darshana  
