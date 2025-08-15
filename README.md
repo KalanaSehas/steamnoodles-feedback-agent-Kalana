@@ -1,4 +1,5 @@
-# Automated Restaurant Feedback Agent — SteamNoodles 🍜  (AgentX Mini Project)
+# Automated Restaurant Feedback Agent — SteamNoodles 🍜 
+(AgentX Mini Project)
 
 **Author:** Kalana Sehas Darshana  
 **University:** University of Plymoth UK 
