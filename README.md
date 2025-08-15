@@ -55,14 +55,16 @@ Menu:
 ## Examples
 
 **Feedback Response Agent**
-```
-Enter a customer review: Amazing noodles and friendly staff!
-Sentiment: positive
-Auto-reply: Thanks so much for the kind words! We're thrilled you enjoyed your visit. Can't wait to welcome you back to SteamNoodles 🍜
-```
+<p align="center">
+  <img src="demo_output.jpg" width="500">
+</p>
 
 **Visualization (last 7 days)**
-- Output file: `outputs/sentiment_plot.png`
+
+<p align="center">
+  <img src="sentiment_plot.jpg" width="500">
+</p>
+
 
 ## Repo Structure
 ```
