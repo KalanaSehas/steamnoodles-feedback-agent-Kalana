@@ -83,11 +83,6 @@ requirements.txt
 README.md
 ```
 
-## Submit
-1. Make the repo public: `steamnoodles-feedback-agent-Kalana`  
-2. Include: source code, sample data (or Kaggle link), screenshot of output plot, and the README.  
-3. Submit GitHub link via the Google Form.
-
 ## Notes
 - Works fully **offline** (rule-based sentiment) and **online** (OpenAI via LangChain) with the exact same CLI.
 - Plot uses **matplotlib** and is saved to `outputs/`.
